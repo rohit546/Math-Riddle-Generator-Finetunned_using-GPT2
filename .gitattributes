@@ -1,1 +1,2 @@
 *.safetensors filter=lfs diff=lfs merge=lfs -text
+fine_tuned_gpt2_math_riddles/model.safetensors filter=lfs diff=lfs merge=lfs -text
